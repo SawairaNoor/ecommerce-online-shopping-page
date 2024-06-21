@@ -1,0 +1,122 @@
+#header{
+    height: 30px;
+    width: 1500px;
+    }
+#navbar{
+    background-color: pink;
+justify-content: center;
+display: flex;
+}
+.anchor{
+    padding: 20px;
+}
+.style h1{
+    color: rgb(219, 25, 57);
+}
+.list{
+    border: 2px solid black;
+    
+}
+.list ul{
+    list-style: none;
+    
+}
+.list ul li{
+
+}
+.list ul li a{
+    text-decoration: none;
+    
+}
+#h1{
+    font-size: xx-large;
+}
+#outer{
+    height: 450px;
+    width: 1500px;
+    border: 2px solid white;
+    display: flex;
+    justify-content: center;
+}
+.inner{
+    height: 400px;
+    width: 250px;
+    border: 2px solid white;
+    margin: 30px;
+    margin-top: 20px;
+}
+#images{
+    height: 250px;
+    width: 250px;
+}
+.BUY{
+    border-radius: 50px;
+    background-color:pink;
+    size: 40px;
+}
+#outer2{
+    height: 450px;
+    width: 1500px;
+    border: 2px solid white;
+    display: flex;
+    justify-content: center;
+}
+.inner2{
+    height: 400px;
+    width: 250px;
+    border: 2px solid white;
+    margin: 30px;
+    margin-top: 20px;
+}
+#outer3{
+    height: 450px;
+    width: 1500px;
+    border: 2px solid white;
+    display: flex;
+    justify-content: center;
+}
+.inner3{
+    height: 400px;
+    width: 250px;
+    border: 2px solid white;
+    margin: 30px;
+    margin-top: 20px;
+}
+img{
+
+    width:70;
+    height :50;
+    object-fit:contain;
+}
+*{
+    margin:0;
+    padding:0;
+}
+.navbar{ display:flex;
+
+}
+.nav-list{
+    width:50%;
+    background-color: rgb(5, 5, 5);
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.nav-list li{ 
+    list-style:none;
+padding: 25px;
+    
+}
+.nav-list li a{
+    text-decoration: none;
+    color: azure;
+}
+.rightNav{
+    background-color:blueviolet;
+width:50;
+text-align :right;
+}
+.BUY{
+    height: 35px;
+    width: 90px;}
